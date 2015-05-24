@@ -14,7 +14,7 @@ $ go get github.com/beego/admin
 ##初次使用
 
 ###创建应用
-首先,使用bee工具创建一个应用程序，参考[`http://beego.me/quickstart`](beego的入门)
+首先,使用bee工具创建一个应用程序，参考[http://beego.me/quickstart](beego的入门)
 ```
 $ bee new hello
 ```
